@@ -1,0 +1,180 @@
+* {
+     padding: 0;
+     margin: 0;
+}
+
+body {
+    height: 100vh;
+
+}
+
+
+
+.intro-to-carousel {
+     height: 50%;
+    
+    
+}
+
+.intro-to-carousel img {
+   
+height: 60px;
+    position: absolute;
+    top: 150px;
+    left: 60px;
+}
+.intro-to-carousel p {
+    height: 60px;
+    font-size: larger;
+    width: 230px;
+    position: absolute;
+    top: 280px;
+    left: 60px;
+}
+
+.intro-to-carousel h3 {
+   
+    height: 60px;
+    position: absolute;
+    top: 230px;
+    left: 60px;
+}
+
+#imgone {
+    height: 600px;
+}
+
+#corosel2 {
+    height: 600px;
+}
+
+#corosel3 {
+    height: 600px;
+}
+
+
+.maincontent {
+    height: 1000px;
+  
+}
+
+
+.maincontent hr {
+    
+    border: 2px inset black;
+}
+
+.top {
+    height: 80px; 
+}
+
+.images {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    gap: 10px;
+     margin: 10px;
+    
+}
+
+
+
+#smartphone {
+    padding-bottom: 5px;
+    padding-left: 135px;
+}
+
+
+.images pre {
+    
+    margin: 0;
+    padding: 0;
+}
+
+.images h3, a {
+    padding-left: 10px ;
+    height: fit-content;
+    margin: 0;
+    
+}
+
+#hot-50 {
+    display: flex;
+    width: 98%;
+    font-size: 14pt;
+    justify-content:space-between ; 
+}
+
+#leftimgone {
+    border: 1px inset black;
+    margin: 10px;
+    height:800px ;
+    width: 700px;
+    border-radius: 10px;
+}
+
+#right-top-img {
+    border: 1px inset black;
+    margin: 10px;
+    height: 372px;
+    width: 600px;
+    border-radius: 10px;
+}
+
+.maincontent2 {
+height: 800px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+font-size: 20pt;
+}
+
+.smintro {   
+    height: 100%;
+    width: 40%;
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.blondegirlimg img {
+    height: 100%;
+    width: 870px;
+    border-radius: 10px;
+}
+
+.blondegirlimg {
+    height: 100%;
+    width: 70%;
+    border-radius: 8px;
+}
+#introbtn {
+    padding: 5px;
+    font-size: 18pt;
+    color: white;
+    background-color: rgb(0, 0, 0);
+    transition: 0.5s;
+    padding: 5px 10px ;
+    border-radius: 7px;
+    border: 4px inset rgb(255, 255, 255);
+    }
+#introbtn:hover { background-color: white;
+    color: black;
+    border: 4px inset rgb(0, 0, 0);
+}
+
+.footer {
+margin-top: 150px;
+}
+
+
+
+
+
+
+
+
+
+
