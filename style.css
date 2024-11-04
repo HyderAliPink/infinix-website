@@ -169,6 +169,20 @@ font-size: 20pt;
 margin-top: 150px;
 }
 
+::-webkit-scrollbar {
+    width: 25px;
+    border-radius: 20px;
+
+}
+::-webkit-scrollbar {
+    background: #b6b6b667;
+}
+
+::-webkit-scrollbar-thumb {
+    background: linear-gradient(#642bff, #ff22e6);
+    border-radius: 15px;
+}
+
 
 
 
